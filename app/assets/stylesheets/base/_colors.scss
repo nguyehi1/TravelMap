@@ -1,0 +1,27 @@
+// Colors
+$primary: #E1BE63;
+$secondary: #ff61ab;
+$success: #008489;
+$error: #ff5572;
+$dark: #644904;
+$light: #FFFAED;
+$grey: #525f7f;
+$grey: #bbbccd;
+$gray-text: #bbbccd;
+$gray-disabled: #dddde6;
+$gray-border: #c5c9e0;
+$gray-background: #f5f5fa;
+$white: #fff;
+
+$colors-map: (
+  primary: $primary,
+  secondary: $secondary,
+  success: $success,
+  error: $error,
+  dark: $dark,
+  grey-text: #bbbccd,
+  grey-disabled: #dddde6,
+  grey-border: #e7e7f0,
+  grey-background: #f3f3f9,
+  white: $white,
+);

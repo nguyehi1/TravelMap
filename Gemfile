@@ -14,6 +14,9 @@ gem 'rails', '5.2.1'
 gem 'redis'
 gem 'jbuilder', '~> 2.5'
 gem 'sqlite3'
+gem 'jquery-rails'
+gem 'turbolinks', '~> 5'
+gem 'coffee-rails', '~> 4.2'
 
 # Fronted gems
 gem 'autoprefixer-rails'
